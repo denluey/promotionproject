@@ -1,5 +1,5 @@
 body {
-	background-image: url('https://static.wikia.nocookie.net/chainsaw-man/images/1/12/Hell.png/revision/latest?cb=20230327070814');
+	background-image: url('https://im3.ezgif.com/tmp/ezgif-3-3084c407b8.jpg');
    background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -32,4 +32,8 @@ p {
 	color: orange;
 	width: 500px;
 	display: inline-block;}
+
+.bdt {
+	border: 5px solid #555;
+}
 
